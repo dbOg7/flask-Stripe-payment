@@ -1,1 +1,1 @@
-# flask_Stripe-payment
+# flask-Stripe-payment
